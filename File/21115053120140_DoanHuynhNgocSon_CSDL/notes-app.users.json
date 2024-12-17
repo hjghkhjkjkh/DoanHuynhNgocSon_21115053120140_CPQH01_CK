@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "676041ab0aba6bd0fc9a482d"
+  },
+  "fullName": "Test User",
+  "email": "testuser@gmail.com",
+  "password": "testuser@123",
+  "createOn": {
+    "$date": "2024-12-16T15:04:01.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6760715a0043546fc74c6383"
+  },
+  "fullName": "Test User 2",
+  "email": "testuser2@gmail.com",
+  "password": "testuser2@123",
+  "createOn": {
+    "$date": "2024-12-16T18:06:54.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67616d704ea74971e5fd8428"
+  },
+  "fullName": "Đoàn Huỳnh Ngọc Sơn",
+  "email": "ngocson@gmail.com",
+  "password": "ngocson@123",
+  "createOn": {
+    "$date": "2024-12-17T12:22:21.048Z"
+  },
+  "__v": 0
+}]
